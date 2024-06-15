@@ -4,13 +4,25 @@
       "title": "My First Blog",
       "body": "Why do we use it?\nIt is a long established fact that a reader will be destracted.",
       "author": "mario",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Opening Party!",
       "body": "Why do we use it?\nIt is a long established fact that a reader will be destracted.",
       "author": "yoshi",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "674a",
+      "title": "dfs",
+      "body": "sdf",
+      "author": "mario"
+    },
+    {
+      "id": "e7c2",
+      "title": "dfddd",
+      "body": "ggttr",
+      "author": "yoshi"
     }
   ]
 }
